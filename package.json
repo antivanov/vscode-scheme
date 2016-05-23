@@ -2,7 +2,7 @@
     "name": "scheme",
     "displayName": "Scheme",
     "description": "Scheme language support for Visual Studio Code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "rebornix",
     "author": {
 		"name": "Peng Lv"
@@ -27,6 +27,7 @@
 	"bugs": {
 		"url": "https://github.com/rebornix/vscode-scheme/issues"
 	},
+    "icon": "images/scheme.jpg",
     "contributes": {
         "languages": [{
             "id": "scheme",
